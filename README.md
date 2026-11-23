@@ -14,7 +14,7 @@ The system allows users to manage student information, including Student ID, Nam
 |---|---|---|
 | Member 1 | Farhana Sultana | 253-35-251 |
 | Member 2 | Nusrat Zahan Nipu | 253-35-497 |
-| Member 3 | Khairunnahar Parthee | 253-35-141 |
+| Member 3 | Khairunnahar Parthee | 253-35-140 |
 
 ---
 
